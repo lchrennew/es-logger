@@ -1,0 +1,10 @@
+{
+  "name": "es-logger",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Chun Li",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^6.4.1"
+  }
+}
