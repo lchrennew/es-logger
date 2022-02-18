@@ -1,5 +1,5 @@
 {
-  "name": "es-logger",
+  "name": "es-get-logger",
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Chun Li",
