@@ -1,11 +1,11 @@
 {
   "name": "es-get-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "author": "Chun Li",
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "log4js": "^6.4.1"
+    "log4js": "^6.4.3"
   }
 }
